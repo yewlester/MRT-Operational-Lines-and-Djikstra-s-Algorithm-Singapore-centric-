@@ -1,5 +1,5 @@
-# MRT-Operational-Lines-and-Djikstra-s-Algorithm-Singapore-centric-
-This repository is a small project of mine that allows a deep dive into the operational stations that the Singapore MRT has, and allows analysis of how many stations exist and what are the shortest paths from point A to B.
+# A WIP project of mine that allows analysis of the MRT lines and stations that exist within the entire SMRT ecosystem
+This repository is a small project of mine that allows a deep dive into the operational stations that the Singapore MRT has, and allows analysis of how many stations exist and what are the shortest paths from point A to B. Please click into MRT_Stations.ipynb to take a look at the compiled code.
 
 In this, I am practicing (and also demonstrating) my ability to perform:
 
